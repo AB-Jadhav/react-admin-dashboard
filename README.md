@@ -1,6 +1,10 @@
 React Admin Dashboard
 This repository contains a React Admin Dashboard project that provides an easy-to-use interface for managing and visualizing data in your web application. The dashboard is built using React, a popular JavaScript library for building user interfaces, and leverages various other libraries and tools to provide a feature-rich and responsive admin experience.
 
+
+![Screenshot (36)](https://github.com/AB-Jadhav/react-admin-dashboard/assets/116675135/3d247055-8698-4c69-8cc5-50632e7cd4e0)
+
+
 Features
 Data Visualization: Visualize data through charts and graphs for quick insights and analysis.
 
