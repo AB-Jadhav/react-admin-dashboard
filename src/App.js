@@ -18,6 +18,7 @@ function App() {
         <Sidebar />
         <Routes>
           <Route exact path="/" element={<Home />} />
+          <Route exact path="/react-admin-dashboard" element={<Home />} />
           <Route exact path="/users" element={<UserList />} />
           <Route path="/user/:userId" element={<User />} />
           <Route path="/newUser" element={<NewUser />} />
